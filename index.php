@@ -96,7 +96,7 @@
                                 <select class="form-control" id="categoriaProduto" name="categoriaProduto">
                                     <option selected>Selecione uma categoria</option>
                                     <option>Vestuário</option>
-                                    <option>Acessórios</option>
+                                    <option>Acessório</option>
                                     <option>Tecnologia</option>
                                     <option>Decoração</option>
                                 </select>

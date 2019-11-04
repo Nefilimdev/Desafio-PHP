@@ -12,7 +12,7 @@
     <?php include_once("var.php"); ?>
 
         <div class="container bg-light p-5">
-            <button class="mb-3"><a href="index.php"> Voltar </a></button>
+            <button class="mb-3"><a href="index.php">&larr; Voltar para lista de produtos</a></button>
 
             <div class="row">
                 <?php 
